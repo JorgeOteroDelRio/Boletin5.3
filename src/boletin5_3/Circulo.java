@@ -11,7 +11,7 @@ package boletin5_3;
  */
 public class Circulo {
     private double radio;
-    final double PI = 3.14;
+    private final double PI = 3.14;
     //Constructores
     public Circulo(){}
     public Circulo(double radio){
